@@ -382,7 +382,7 @@ p {
     -webkit-box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     border-radius: 50%;
-    background: #161616;
+    background: #9e259f;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
 }
@@ -439,7 +439,7 @@ p {
 }
 
 .bor {
-    background: #161616;
+    background: #9e259f;
     padding: 10px 25px !important;
     position: relative;
     border-radius: 3px;
@@ -509,7 +509,7 @@ p {
 }
 
 .nav-bg {
-    background: #161616 !important;
+    background: #9e259f !important;
     padding: 25px 0;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
@@ -688,7 +688,7 @@ p {
 }
 
 .over-item {
-    background: #161616;
+    background: #9e259f;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     padding: 35px 31px;
@@ -924,7 +924,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #161616;
+    border: 25px solid #9e259f;
     z-index: -1;
     border-radius: 50%;
 }
@@ -936,7 +936,7 @@ over-btn a i {
     right: -55px;
     width: 120px;
     height: 120px;
-    border: 25px solid #161616;
+    border: 25px solid #9e259f;
     z-index: -1;
     -webkit-transform: rotate(35deg);
     -ms-transform: rotate(35deg);
@@ -950,7 +950,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #161616;
+    border: 25px solid #9e259f;
     z-index: -1;
     border-radius: 50%;
 }
@@ -1362,7 +1362,7 @@ over-btn a i {
     padding: 14px 20px;
     font-family: pb;
     font-size: 16px;
-    color: #161616;
+    color: #9e259f;
     background: white;
     text-align: center;
     border-radius: 50px;
@@ -1400,7 +1400,7 @@ over-btn a i {
     right: -280px;
     width: 800px;
     height: 800px;
-    border: 80px solid #161616;
+    border: 80px solid #9e259f;
     border-radius: 50%;
     z-index: -1;
     -webkit-box-shadow: 0 25px 60px rgba(0, 0, 0, .67), inset 0 25px 60px rgba(0, 0, 0, .67);
@@ -1555,7 +1555,7 @@ textarea:-ms-input-placeholder {
 }
 
 .card-body {
-    background: #161616;
+    background: #9e259f;
     color: #ccc;
     padding: 26px 40px;
     line-height: 28px;
@@ -1830,7 +1830,7 @@ textarea::placeholder {
 =============================*/
 
 #footer-btm {
-    background: #161616;
+    background: #9e259f;
     border-top: 2px dashed #222;
     padding: 25px 0;
 }
